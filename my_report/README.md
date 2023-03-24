@@ -2,11 +2,12 @@
 
 ### First and Last Name: Παναγιώτα Χατηπαναγιώτη
 ### University Registration Number: dpsd18133
-### GitHub Personal Profile: https://github.com/dpsd18133/Digital-Storytelling-Individual-Assignment 
-### Digital-Storytelling-Individual-Assignment: 
+### GitHub Personal Profile: https://github.com/dpsd18133  
+### Digital-Storytelling-Individual-Assignment: https://github.com/dpsd18133/Digital-Storytelling-Individual-Assignment
 
 # Introduction
 
+Η ατομική εργασία αφορά την δημιουργία 3D animation. Η εργασία αυτή υλοποιείται με το πρόγραμμα unity και αποσκοπεί στην δημιουργία mini ταινίας - animation με κινηματογραφικό στυλ και εφέ χρησιμοποιώντας ψηφιακούς χαρακτήρες, φτιάχνοντας έτσι ένα ψηφιακό κόσμο.
 
 # Summary
 

@@ -5,6 +5,8 @@
 
 Παρακάτω φαίνεται η πίστα για το animation και πιο κάτω είναι το βίντεο MP4.
 
+![image](https://user-images.githubusercontent.com/46854165/227713094-5e2f99a3-4fba-4cc6-8d10-ee69f6fe0cd9.png)
 
-https://user-images.githubusercontent.com/46854165/227563205-daffaa0e-30c5-4655-a803-a5f3643b4ef6.mp4
+![image](https://user-images.githubusercontent.com/46854165/227713129-4b8bec6a-094f-46a7-9abf-c7d71b09191d.png)
 
+https://user-images.githubusercontent.com/46854165/227713248-0655ac19-379d-4cec-a922-d286af108348.mp4

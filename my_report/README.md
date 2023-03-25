@@ -43,10 +43,10 @@
 
 Παρακάτω φαίνεται η τελική πίστα για το animation και πιο κάτω είναι το βίντεο MP4.
 
-![image](https://user-images.githubusercontent.com/46854165/227714205-932ead57-4c3b-460a-a8f1-5d6db270ff21.png)
+![image](https://user-images.githubusercontent.com/46854165/227718754-137f70ca-a13a-4c24-ae4b-67c50dcc9e2f.png)
 
-![image](https://user-images.githubusercontent.com/46854165/227714210-df1b7c83-e9fe-4625-aebd-de21c6eae882.png)
-
+![image](https://user-images.githubusercontent.com/46854165/227718764-5909ee8c-5e02-4df2-be83-6ea31c6fb20c.png)
+ 
 https://user-images.githubusercontent.com/46854165/227718654-3ba02638-6761-4447-84ad-2504eb0fa95e.mp4
 
 # 2nd Deliverable

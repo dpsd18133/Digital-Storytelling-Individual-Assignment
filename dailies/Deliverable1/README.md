@@ -5,4 +5,4 @@ Summary
 
 Αφήνω και εδώ το τελικό animation για το 1ο παραδοτέο.
 
-https://user-images.githubusercontent.com/46854165/227714348-698cae67-c840-4210-a4d0-034316eace3c.mp4
+https://user-images.githubusercontent.com/46854165/227718849-0a329f51-80d1-4088-8722-683ff77fbc79.mp4

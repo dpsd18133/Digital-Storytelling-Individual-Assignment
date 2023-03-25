@@ -27,15 +27,13 @@
 
 Στην Ενότητα 3, μας δίνεται μια πιο οπτικά ανεπτυγμένη έτοιμη Σκηνή στην οποία μαθαίνουμε να στήνουμε ένα περιβάλλον χρησιμοποιώντας πιο εκλεπτυσμένα αντικείμενα που μας παρέχονται. Στην συνέχεια προσθέτουμε ατμόσφαιρα στο σετ σας με φωτισμό και υλικά που εκπέμπουν φως. Τέλος, στο Creative Challenge, μπορούμε να φτιάξουμε και δικά μας αντικείμενα (π.χ. κώνος)ή να διαμορφώσουμε ήδη υπάρχοντα για να διακοσμήσουμε μια περιοχή της Σκηνής.
 
-![image](https://user-images.githubusercontent.com/46854165/227653848-f821961e-9eb1-4597-b388-82233df397b6.png)
+![image](https://user-images.githubusercontent.com/46854165/227709384-e2aae833-7153-4387-a75d-87e1de69cb2b.png)
 
-![image](https://user-images.githubusercontent.com/46854165/227653861-f5cb1f0d-fb4f-41dc-97c5-9c82ae039c96.png)
+![image](https://user-images.githubusercontent.com/46854165/227709397-03a2e9fc-de17-48fa-8a93-04866b9e9c51.png)
 
-![image](https://user-images.githubusercontent.com/46854165/227653869-a607aaea-4faf-42e5-9827-8f5b0b21f6b8.png)
+![image](https://user-images.githubusercontent.com/46854165/227709579-3c6fb8c2-7c98-4f59-8997-6b31b3a38cc0.png)
 
-![image](https://user-images.githubusercontent.com/46854165/227653886-61af9498-8924-411e-9bad-b57b9ca30d52.png)
-
-![image](https://user-images.githubusercontent.com/46854165/227653900-b03c744d-bc07-4094-8cf9-c869fac2a16c.png)
+![image](https://user-images.githubusercontent.com/46854165/227709597-92353b74-6c9c-4d01-bc49-4931353223b4.png)
 
 Παραπάνω φαίνεται το τελικό στήσιμο της πόλης που έκανα χρησιμοποιώντας τα αντικείμενα που μας παρέχονταν και τα δικά μου.
 

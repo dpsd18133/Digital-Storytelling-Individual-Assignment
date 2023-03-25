@@ -42,13 +42,11 @@
 Στην Ενότητα 4, θα μαθαίνουμε τα βασικά βήματα δημιουργίας animation στο Unity χρησιμοποιώντας το Timeline προκειμένου να δώσουμε κίνηση στους χαρακτήρες στα αυτοκίνητα και σε άλλα αντικείμενα (π.χ. κάμερα). Τέλος, φτιάχνουμε το animation σε μορφή MP4.
 Παρακάτω φαίνεται η πίστα για το animation και πιο κάτω είναι το βίντεο MP4.
 
-![image](https://user-images.githubusercontent.com/46854165/227713094-5e2f99a3-4fba-4cc6-8d10-ee69f6fe0cd9.png)
+![image](https://user-images.githubusercontent.com/46854165/227714205-932ead57-4c3b-460a-a8f1-5d6db270ff21.png)
 
-![image](https://user-images.githubusercontent.com/46854165/227713129-4b8bec6a-094f-46a7-9abf-c7d71b09191d.png)
+![image](https://user-images.githubusercontent.com/46854165/227714210-df1b7c83-e9fe-4625-aebd-de21c6eae882.png)
 
-
-https://user-images.githubusercontent.com/46854165/227713159-fd901650-81e6-41dc-ba16-e99a6470aed9.mp4
-
+https://user-images.githubusercontent.com/46854165/227714301-01586edb-d540-45b0-9ff0-1e4fc357378a.mp4
 
 # 2nd Deliverable
 

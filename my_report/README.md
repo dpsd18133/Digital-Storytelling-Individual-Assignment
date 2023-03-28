@@ -1,6 +1,6 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: Παναγιώτα Χατηπαναγιώτη
+### First and Last Name: Παναγιώτα Χατζηπαναγιώτη
 ### University Registration Number: dpsd18133
 ### GitHub Personal Profile: https://github.com/dpsd18133  
 ### Digital-Storytelling-Individual-Assignment: https://github.com/dpsd18133/Digital-Storytelling-Individual-Assignment

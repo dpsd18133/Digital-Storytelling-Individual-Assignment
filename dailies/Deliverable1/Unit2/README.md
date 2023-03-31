@@ -7,4 +7,9 @@
 
 ![image](https://user-images.githubusercontent.com/46854165/229185071-62db9443-5b15-4b38-8092-3a8cc40821e9.png)
 
+
+
+https://user-images.githubusercontent.com/46854165/229188081-142fb3f3-d483-4ff2-ae0f-648504d12821.mp4
+
+
 Παραπάνω φαίνεται η πόλη που έφτιαξα με την βοήθεια των tools για για να φτιάξω κτήρια και ουρανοξύστες.

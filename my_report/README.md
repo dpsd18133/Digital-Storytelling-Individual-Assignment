@@ -52,25 +52,35 @@
 ![image](https://user-images.githubusercontent.com/46854165/227718754-137f70ca-a13a-4c24-ae4b-67c50dcc9e2f.png)
 
 ![image](https://user-images.githubusercontent.com/46854165/227718764-5909ee8c-5e02-4df2-be83-6ea31c6fb20c.png)
+
  
 https://user-images.githubusercontent.com/46854165/227718654-3ba02638-6761-4447-84ad-2504eb0fa95e.mp4
 
 # 2nd Deliverable
-5ο  Unit
 
+Για το 2ο παραδοτεο ακολουθησα τις οδηγιες που μας δοθηκαν και εκανα καποιες αισθητικες αλλαγες που θεωρησα οτι ταιριαζουν περισσοτερο στην πολη μου. Αρχικα εκανα ενα πλανο για το πως θελω να ειναι ειναι το βιντεο, ουσιαστικα τι πλανα θελω να εχω και εκανα την εναλλαγη χαρακτηρων. Στην συνεχεια προσθεσα φωτισμο στην πολη, στα φαναρια, στις λαμπες, στα στενα, σε πορτες κλπ. και την εκανα φωτεινη. Επεξεργαστικα τον φωτισμο στα κτηρια και τις καμερες, εκανα την πολη να εχει μια απαλη ομιχλη , και μετα προσθεσα καποια εφε, οπως καπνο στο δρομο. Τελος προσθεσα ηχο στο background και εβαλα ενα και εναν τιτλο να φαινεται στην αρχη του βιντεο.
+
+Ο ηχος που εβαλα για background ειναι στο παρακατω link:
+https://pixabay.com/sound-effects/search/street%20noise/?manual_search=1&order=None 
+
+Παρακατω ειναι μερικα screenshot που φαινεται η παραπανω διαδικασια που ακολουθησα για να κανω το τελικο mini clip.
+
+![image](https://user-images.githubusercontent.com/46854165/236696069-96da61ce-8f48-4b66-8296-cac7a7923492.png)
+![image](https://user-images.githubusercontent.com/46854165/236696040-3e28367a-393f-466d-b64a-43a5c5e0f61b.png)
+![image](https://user-images.githubusercontent.com/46854165/236696202-d9466deb-a749-4f30-a5b2-d20354cf755b.png)
+
+
+5ο  Unit
 
 https://user-images.githubusercontent.com/46854165/236677432-57fef85e-44c7-429a-ac2d-0dbb33c55836.mp4
 
 
 6ο  Unit
 
-
 https://user-images.githubusercontent.com/46854165/236677440-0b4f37a2-9e83-4a89-8513-b2f8c3166fb8.mp4
 
 
 7ο  Unit
-https://pixabay.com/sound-effects/search/street%20noise/?manual_search=1&order=None 
-
 
 https://user-images.githubusercontent.com/46854165/236685181-4cd039aa-bcd2-41b6-a14b-76d5f82b8919.mp4
 
